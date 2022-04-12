@@ -1,0 +1,6 @@
+id=exposure-fix
+name=Exposure Fix
+version=v1
+versionCode=1
+author=Cememer
+description=Magisk module to solve the problem of no exposure notification.
